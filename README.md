@@ -1,0 +1,3 @@
+# Climateapp
+
+App requests API from a weather-API , which is then used to display current location weather and also cities we pick....
